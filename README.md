@@ -81,6 +81,9 @@ The system can be configured to:
 - Log timestamps
 - Send notifications (e.g. via email or SMS)
 
+<p align="center">
+  <img src="/Screenshot1.png" alt="Screenshot 1" width="600"/>
+</p>
 ---
 
 ## 🤖 Possible Extensions
